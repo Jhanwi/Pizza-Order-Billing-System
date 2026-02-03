@@ -33,3 +33,22 @@ The main script allows users to order a pizza by choosing the size, adding peppe
 4. **Bill Calculation**:
     - Calculates the bill based on pizza size, addition of pepperoni, and extra cheese.
  
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Jhanwi/Pizza-Order-Billing-System.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd Pizza-Order-Billing-System
+    ```
+
+## Usage
+
+1. Run the main script to start the application:
+    ```bash
+    python pizza_bill.py
+    ```
+2. Follow the steps to place your pizza order.
+3. The total bill will be calculated and displayed at the end.
